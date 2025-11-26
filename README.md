@@ -1,2 +1,2 @@
 # bytetools.io
-yteTools — Privacy-First Developer Tools
+ByteTools — Privacy-First Developer Tools
