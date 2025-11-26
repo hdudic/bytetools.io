@@ -3,8 +3,8 @@
 
   **Live Site:** https://bytetools.io
 
-  ByteTools is a collection of 9 privacy-first web tools built for developers who value security and speed. All
-  processing happens client-side — your data never leaves your browser.
+  ByteTools is a collection of privacy-first web and AI tools built for developers who value security and speed. All
+  processing happens client-side and your data never leaves your browser.
 
   ## 🛠️ Tools
   - **Regex Tester** - Test patterns with 50+ examples
@@ -17,7 +17,7 @@
   - **QR Generator** - Create WiFi, contact, URL QR codes
   - **IP Subnet Calculator** - CIDR, subnetting, supernetting
 
-  ## 🤖 AI Studio (Beta)
+  ## 🤖 AI Studio
   7 privacy-first AI developer tools for prompt design, token calculation, function calling schemas, guardrails, RAG
   chunking, and more.
 
