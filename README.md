@@ -18,7 +18,7 @@ A collection of **9 privacy-first web tools** that run entirely in your browser 
 8. **[QR Generator](https://bytetools.io/qr-generator)** - WiFi, contact, URL QR codes
 9. **[IP Subnet Calculator](https://bytetools.io/ip-subnet-calculator)** - CIDR, subnetting, supernetting
 
-## 🤖 AI Studio (Beta)
+## 🤖 AI Studio
 
 **7 privacy-first AI developer tools** for building production-ready AI applications:
 
