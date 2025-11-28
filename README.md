@@ -114,12 +114,6 @@ A collection of **9 privacy-first web tools** that run entirely in your browser 
 4. **SEO-Optimized**: Target security-conscious and developer audiences
 5. **Enterprise-Ready**: Consider compliance and security requirements
 
-## 📚 Documentation
-
-- **[CLAUDE.md](./CLAUDE.md)**: Complete project context for AI assistants
-- **[ARCHITECTURE.md](./ARCHITECTURE.md)**: Technical implementation details
-- **[STRATEGY.md](./STRATEGY.md)**: Business model and growth strategy
-
 ## 🤝 Contributing
 
 We welcome contributions! Focus areas:
