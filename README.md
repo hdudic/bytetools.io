@@ -133,24 +133,10 @@ A collection of **9 privacy-first web tools** that run entirely in your browser 
 
 ---
 
-## 🚀 Performance Stats (November 2025)
-
-- **21,000+ Monthly Search Impressions** across Google and Bing
-- **Bing Leader**: 6x more impressions than Google (18K vs 3K)
-- **Top Performer**: Regex Tester with 8,794 monthly impressions
-- **Content Library**: 20,000+ words across 35+ guides and blog posts
-- **SEO Recovery**: Fixed critical indexing issues (targeting 85+ indexed pages)
-
----
-
 ## 🛠️ Technology Stack
 
 - **Framework**: Next.js 15.3.5 with TypeScript
 - **Styling**: Tailwind CSS with gradient designs
-- **Deployment**: Cloudflare Pages (static export)
-- **Analytics**: Google Analytics + Microsoft Clarity + Bing Webmaster Tools
-- **Monetization**: Google AdSense (family-friendly)
-- **Security**: HSTS preload, CSP headers, security.txt
 
 ---
 
