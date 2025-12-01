@@ -1,6 +1,6 @@
 # ByteTools — Privacy-First Developer Tools
 
-🔒 **100% Client-Side Processing** | 🚀 **21,000+ Monthly Impressions** | ⚡ **Works Offline**
+🔒 **100% Client-Side Processing** | ⚡ **Works Offline**
 
 A collection of **9 privacy-first web tools** that run entirely in your browser with zero data collection. Perfect for developers, security professionals, and privacy-conscious users.
 
@@ -11,9 +11,9 @@ A collection of **9 privacy-first web tools** that run entirely in your browser 
 ## 🛠️ Core Tools
 
 ### **Top-Performing Tools**
-1. **[Regex Tester](https://bytetools.io/regex-tester)** - Test patterns with 50+ examples [🥇 8,794 monthly impressions]
-2. **[JWT Decoder](https://bytetools.io/jwt-decoder)** - Decode tokens safely (jwt.io alternative) [🥈 4,908 monthly impressions]
-3. **[URL Encoder](https://bytetools.io/url-encoder)** - Encode/decode URLs [🥉 4,306 monthly impressions]
+1. **[Regex Tester](https://bytetools.io/regex-tester)** - Test patterns with 50+ examples
+2. **[JWT Decoder](https://bytetools.io/jwt-decoder)** - Decode tokens safely (jwt.io alternative)
+3. **[URL Encoder](https://bytetools.io/url-encoder)** - Encode/decode URLs
 4. **[JSON Formatter](https://bytetools.io/json-formatter)** - Format, validate, minify JSON
 
 ### **Security & Utility Tools**
@@ -154,41 +154,6 @@ A collection of **9 privacy-first web tools** that run entirely in your browser 
 
 ---
 
-## 🏗️ Development
-
-```bash
-# Clone the repository
-git clone https://github.com/hdudic/bytetools.io.git
-cd bytetools.io
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-```
-
----
-
-## 📊 SEO Strategy
-
-### **Dual-Platform Approach**
-- **Bing Optimization**: "How to" tutorials and step-by-step guides (6x better performance)
-- **Google Targeting**: Tool-specific searches and branded queries
-- **Content Focus**: Privacy advantages vs competitors like jwt.io, regex101
-
-### **Target Keywords**
-- `how to test regex patterns` (Bing champion - 8,794 impressions)
-- `jwt decode online` (4.5x better than Google)
-- `url encode online` (23x better than Google)
-- `ai prompt engineering` (5,400+ word comprehensive guide)
-- `reduce ai costs` (60% cost reduction guide)
-
----
-
 ## 🎯 Competitive Advantages
 
 ✅ **Zero data collection** (vs competitors who track/store data)
@@ -200,17 +165,6 @@ npm run build
 
 ---
 
-## 📈 Recent Achievements
-
-- **2025-11-29**: Fixed critical Google indexing collapse (32 pages affected)
-- **2025-11-27**: Completed Article schema for all 13 blog posts
-- **2025-11-26**: Added 5 new AI security/privacy pages (20,000+ total words)
-- **2025-11-26**: Added security.txt for responsible vulnerability disclosure
-- **2025-10-30**: Comprehensive SEO overhaul targeting Bing ranking recovery
-- **2025-08-23**: Completed Bing optimization campaign (CTR: 1.50%)
-
----
-
 ## 🔧 Architecture Principles
 
 1. **Privacy-First**: Never add features that compromise client-side processing
@@ -218,15 +172,6 @@ npm run build
 3. **Accessibility**: Ensure all tools work on mobile and desktop
 4. **SEO-Optimized**: Target security-conscious and developer audiences
 5. **Enterprise-Ready**: Consider compliance and security requirements
-
----
-
-## 📚 Documentation
-
-- **[CLAUDE.md](./CLAUDE.md)**: Complete project context for AI assistants
-- **[ARCHITECTURE.md](./ARCHITECTURE.md)**: Technical implementation details
-- **[STRATEGY.md](./STRATEGY.md)**: Business model and growth strategy
-- **[SECURITY.md](./SECURITY.md)**: Security policy and vulnerability disclosure
 
 ---
 
